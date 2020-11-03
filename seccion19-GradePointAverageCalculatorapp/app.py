@@ -52,4 +52,4 @@ print("\tLowest Grade:",min(new_grades))
 avg = sum(new_grades)/len(new_grades)
 print("\tAverage:",avg)
 
-print("\nOriginal Grades: ",gradesList)
+print("\nOriginal Grades:",gradesList)
